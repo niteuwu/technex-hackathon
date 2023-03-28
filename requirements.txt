@@ -3,3 +3,6 @@ streamlit
 streamlit-lottie
 numpy
 jupyter-lab
+pillow
+pandas
+requests
