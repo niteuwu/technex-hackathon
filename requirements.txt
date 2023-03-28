@@ -1,0 +1,5 @@
+tensorflow
+streamlit
+streamlit-lottie
+numpy
+jupyter-lab
