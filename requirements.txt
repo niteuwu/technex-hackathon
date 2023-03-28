@@ -6,3 +6,4 @@ jupyter-lab
 pillow
 pandas
 requests
+ydata_profiling
